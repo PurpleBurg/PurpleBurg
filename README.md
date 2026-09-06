@@ -1,4 +1,12 @@
-## Hi there 👋
+<img width="1100" height="433" alt="image" src="https://github.com/user-attachments/assets/307bda3f-fe90-4864-b3c7-068383c71c33" />
+
+
+
+
+<img width="1100" height="697" alt="image" src="https://github.com/user-attachments/assets/0e342daa-491d-43c5-8e90-4f9bddede62f" />
+
+
+<img width="1100" height="598" alt="Screenshot 2026-09-06 043335" src="https://github.com/user-attachments/assets/78c6bd8c-9452-48bf-b1a5-c86700dcb33a" />
 
 <!--
 **PurpleBurg/PurpleBurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
