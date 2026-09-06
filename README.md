@@ -6,7 +6,9 @@
 <img width="1100" height="697" alt="image" src="https://github.com/user-attachments/assets/0e342daa-491d-43c5-8e90-4f9bddede62f" />
 
 
-<img width="1100" height="598" alt="Screenshot 2026-09-06 043335" src="https://github.com/user-attachments/assets/78c6bd8c-9452-48bf-b1a5-c86700dcb33a" />
+<img width="788" height="489" alt="image" src="https://github.com/user-attachments/assets/5ea4fbb1-fcce-479a-a4ab-afaf550e835c" />
+
+
 
 <!--
 **PurpleBurg/PurpleBurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
